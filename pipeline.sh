@@ -1,5 +1,5 @@
 cal 
 date
 whoami
-ifconfig
+echo "Hello from the other side!"
 
