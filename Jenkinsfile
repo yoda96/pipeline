@@ -10,7 +10,7 @@ pipeline {
         }
         stage('execute') {
             steps {
-                echo './pipeline.sh'
+                sh './pipeline.sh'
             }
         }
       }
